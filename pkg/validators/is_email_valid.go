@@ -9,4 +9,5 @@ func IsEmailValid(email string) bool {
 		return false
 	}
 
-	return tru
+	return true
+}
